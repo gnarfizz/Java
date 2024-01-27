@@ -1,0 +1,10 @@
+S,Iced,Smoothie,4.0
+S,Iced,Smoothie,4.0
+S,Iced,Smoothie,4.0
+S,Hot,Tea,2.4
+S,Hot,Tea,2.4
+S,Iced,Tea,2.0
+S,Iced,Tea,2.0
+L,Iced,Tea,4.0
+L,Iced,Tea,4.0
+Total: $28.8
